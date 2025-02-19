@@ -1,0 +1,5 @@
+pb_data/ # PocketBase database files
+pb_public/ # Public storage (optional)
+pb_migrations/ # Migration files (optional)
+.env # Environment variables
+node_modules/ # If using JavaScript/Node.js
